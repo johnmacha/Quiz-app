@@ -1,0 +1,74 @@
+
+*{
+  box-sizing: border-box;
+  background-color: wheat;
+}
+
+button{
+  background-color: purple;
+  color: aqua;
+  padding: 20px;
+}
+
+button:hover{
+  background-color: #2a004c;
+  cursor: pointer;
+}
+
+{
+
+}
+
+/*.container{
+  display: flex;
+  position: relative;
+  background: #000000;
+  justify-content: center;
+  align-items: center;
+  width:800px;
+  height:400px;
+  margin-top: 80px;
+}*/
+
+.puzzle{
+  /*width:800px;
+  height:600px;*/
+  text-align: center;
+  margin-top: 80px;
+}
+
+.score-board{
+font-family: cursive ;
+font-size: 1.60em;
+color: purple;
+font-weight: bold;
+margin-top:20%;
+}
+
+.question-section{
+/*background: border-box;
+background-color: aqua;*/
+margin-top: 20%;
+font-weight: bold;
+font-family: cursive;
+font-size: 1.10em;
+
+
+
+}
+
+.question-count{
+  color: #2da200;
+  font-weight: bold;
+  font-size:1.20em;
+  font-style:italic;
+  font-family:Sans-serif;
+  margin-bottom: 20px;
+}
+
+.answer-section{
+  margin-top: 20px;
+  
+}
+
+
